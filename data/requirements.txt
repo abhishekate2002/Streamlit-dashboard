@@ -1,3 +1,4 @@
 pandas==1.4.4
 plotly==5.9.0
 streamlit==1.14.0
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
